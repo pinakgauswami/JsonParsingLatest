@@ -147,6 +147,8 @@ public class MainActivity extends AppCompatActivity {
                     R.id.email, R.id.mobile});
 
             lv.setAdapter(adapter);
+
+            System.out.println("Successful Loaded");
         }
 
     }
