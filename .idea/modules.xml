@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JsonParsing.iml" filepath="$PROJECT_DIR$/JsonParsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JsonParsingLatest.iml" filepath="$PROJECT_DIR$/JsonParsingLatest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
